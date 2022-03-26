@@ -677,5 +677,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
   - Assets/Game.unity
-  playerPath: "C:/Users/Leon45la/OneDrive/\u684C\u9762/\u4F5C\u54C1\u96C6/20210928
-    YZU.exe"
+  playerPath: C:/workspaces/Deity Defence/20210928 YZU.exe
